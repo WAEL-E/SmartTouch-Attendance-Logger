@@ -19,9 +19,7 @@ A practical IoT-based attendance system designed for small classrooms to help le
 
 ## 📸 Screenshots
 
-| LCD Output         | System Build        | Firebase Realtime Log |
-|--------------------|---------------------|------------------------|
-| ![LCD](![alt text](<WhatsApp Image 2025-05-15 at 08.10.27_5fa01ad5.jpg>)) | ![Build](![alt text](<WhatsApp Image 2025-05-15 at 08.06.32_03423ea1.jpg>)) | ![Log](![alt text](<Screenshot 2025-05-15 081139.png>)) |
+You can access it through the Files section.
 
 ## 🛠️ Built With
 
