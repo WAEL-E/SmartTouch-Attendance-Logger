@@ -1,4 +1,4 @@
-// SmartTouch Attendance Logger (FINAL WORKING VERSION)
+// SmartTouch Attendance Logger 
 
 #include <WiFi.h>
 #include <Wire.h>
